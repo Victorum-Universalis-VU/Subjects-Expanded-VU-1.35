@@ -3,11 +3,11 @@
  #Reorganised format as of 11.5 -
  # Note main folder contains all NEW localisations. Entries which replace vanilla content are found in the replace subfolder.
  #
- #bt_core_content - contains all Draiocht's core content, including everything not otherwise listed.
- #(THIS FILE) bt_countries - contains all Draiocht's tags and national ideas, including - 1) Tags   2) National Ideas
- #bt_provinces - contains all province names, including adjectives (which are still incomplete)
- #bt_regional_names - contains all Draiocht's regional localisations, including - 1) Regions   2) Trade Nodes   3) Colonial Regions   4) Areas   5) Colonial Nation Names
- #others_work_in_bt - contains all localisations NOT written by Draiocht, including HR's work from BT, all of Dub's work, and many contributors' work
+ #vu_core_content - contains all Darth Modus's core content, including everything not otherwise listed.
+ #(THIS FILE) vu_countries - contains all Darth Modus's tags and national ideas, including - 1) Tags   2) National Ideas
+ #vu_provinces - contains all province names, including adjectives (which are still incomplete)
+ #vu_regional_names - contains all Darth Modus's regional localisations, including - 1) Regions   2) Trade Nodes   3) Colonial Regions   4) Areas   5) Colonial Nation Names
+ #others_work_in_vu - contains all localisations NOT written by Darth Modus, including HR's work from VU, all of Dub's work, and many contributors' work
 
  #################################################################################
  #################################################################################
@@ -44,16 +44,19 @@
  TFR_ADJ:0 "French" 
  #Germany
  #NEW VU additions by San Felipe
- NGC:0 "North German Empire"
- NGC_ADJ:0 "German"
  GEM:0 "German Empire"
  GEM_ADJ:0 "German"
- GRP:0 "Germany"
- GRP_ADJ:0 "German"
- AUE:0 "Austrian_Empire"
+ NGC:0 "North German Confederation"
+ NGC_ADJ:0 "Northern German"
+ AUE:0 "Austrian Empire"
  AUE_ADJ:0 "Austrian"
- AHE:0 "Austria_Hungary"
+ AHE:0 "Austria-Hungary"
  AHE_ADJ:0 "Austro-Hungarian"
+ 
+ #Great Britain
+ #ML8991
+ AFU:0 "Les Rouyaumes Unis"
+ AFU_ADJ:0 "Anglois"
 
  #Addition by KyuQem#
  NRE:0 "North Sea Empire"
@@ -122,7 +125,7 @@
  #self_governing_dominion_vu_overlord:0 "Dominion Overlord"
  #self_governing_dominion_vu_subject:0 "Dominion Subject"
  #self_governing_dominion_vu_is_our:0 "§Y$NAME$§! is our Dominion."
- #
+ ##
  #self_governing_super_dominion_vu:0 "Super Dominion"
  #self_governing_super_dominion_vu_long_desc:0 "A Super Dominion is equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, though united by a common allegiance to the Crown."
  #self_governing_super_dominion_vu_title:0 "Super Dominion"
