@@ -5283,7 +5283,7 @@ dutch_colonial_government = {
 	}
 
 	trigger = {
-		culture_group = iberian
+		primary_culture = dutch
 		OR = {
 			has_reform = colonial_government
 			has_reform = crown_colony_government
