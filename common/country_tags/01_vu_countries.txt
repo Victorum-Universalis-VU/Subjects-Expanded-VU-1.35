@@ -953,6 +953,19 @@ ZIB = "countries/Zimbabwe.txt"
 #BNA = "countries/Bodonitsa.txt"
 #MTS = "countries/Maniotes.txt"
 #TSS = "countries/Tsakones.txt"
+#NIC = "countries/Nicea.txt"
+
+#ABN - Arbanon
+#TSP - Tsepina
+#RHO - Rhodes
+#THE - Thessalonica
+#CCN - County_of_Cephalonia
+#NRP - Triarchy_of_Negroponte
+#PLS - Philippopolis
+#BNA - Bodonitsa
+#MTS - Maniotes
+#TSS - Tsakones
+#NIC - Nicea
 
 #Tags Changed by San Felipe
 #INI changed to IDA
