@@ -3397,7 +3397,7 @@ romanian_monarchy = {
     consort_male = {
         1 = ROM_PRINCIPE_CONSORT
         2 = ROM_REGE_CONSORT
-        3 = ROM_IMPARAT-CONSORT
+        3 = ROM_IMPARAT_CONSORT
     }
 
     consort_female = {
