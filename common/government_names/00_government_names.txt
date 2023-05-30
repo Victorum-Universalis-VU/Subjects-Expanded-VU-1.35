@@ -3376,53 +3376,102 @@ jurchen_monarchy = {
 }
 
 romanian_monarchy = {
-	rank = {
-		1 = PRINCIPALITY
-		2 = KINGDOM
-		3 = EMPIRE
-	}
+    rank = {
+        1 = ROM_PRINCIPALITY
+        2 = ROM_KINGDOM
+        3 = ROM_EMPIRE
+    }
 
-	ruler_male = {
-		1 = VOIVODE
-		2 = KRALJ
-		3 = CAR
-	}
+    ruler_male = {
+        1 = ROM_VOIVOD
+        2 = ROM_REGE
+        3 = ROM_IMPARAT
+    }
 
-	ruler_female = {
-		1 = VOJVODKINJA
-		2 = KRALJICA
-		3 = CARICA
-	}
-	
-	consort_male = {
-		1 = VOIVODE
-		2 = KRALJ
-		3 = CAR
-	}
+    ruler_female = {
+        1 = ROM_PRINCIPESA_fem
+        2 = ROM_REGINA_fem
+        3 = ROM_IMPARATEASA_fem
+    }
+    
+    consort_male = {
+        1 = ROM_PRINCIPE_CONSORT
+        2 = ROM_REGE_CONSORT
+        3 = ROM_IMPARAT_CONSORT
+    }
 
-	consort_female = {
-		1 = VOJVODKINJA
-		2 = KRALJICA
-		3 = CARICA
-	}
+    consort_female = {
+        1 = ROM_DOAMNA_CONSORT_fem
+        2 = ROM_REGINA_CONSORT_fem
+        3 = ROM_IMPARATEASA_CONSORT_fem
+    }
 
-	heir_male = {
-		1 = HEIR
-		2 = HEIR
-		3 = HEIR
-	}
+    heir_male = {
+        1 = ROM_PRINCIPE
+        2 = ROM_PRINCIPE
+        3 = ROM_PRINCIPE
+    }
 
-	heir_female = {
-		1 = HEIR_fem
-		2 = HEIR_fem
-		3 = HEIR_fem
-	}
+    heir_female = {
+        1 = ROM_PRINCIPESA_fem
+        2 = ROM_PRINCIPESA_fem
+        3 = ROM_PRINCIPESA_fem
+    }
 
-	trigger = {
-		government = monarchy
-		primary_culture = romanian
-	}
+    trigger = {
+        government = monarchy
+        primary_culture = romanian
+    }
 }
+
+#romanian_monarchy = {
+#	rank = {
+#		1 = PRINCIPALITY
+#		2 = KINGDOM
+#		3 = EMPIRE
+#	}
+#
+#	ruler_male = {
+#		1 = VOIVODE
+#		2 = KRALJ
+#		3 = CAR
+#	}
+#
+#	ruler_female = {
+#		1 = VOJVODKINJA
+#		2 = KRALJICA
+#		3 = CARICA
+#	}
+#	
+#	consort_male = {
+#		1 = VOIVODE
+#		2 = KRALJ
+#		3 = CAR
+#	}
+#
+#	consort_female = {
+#		1 = VOJVODKINJA
+#		2 = KRALJICA
+#		3 = CARICA
+#	}
+#
+#	heir_male = {
+#		1 = HEIR
+#		2 = HEIR
+#		3 = HEIR
+#	}
+#
+#	heir_female = {
+#		1 = HEIR_fem
+#		2 = HEIR_fem
+#		3 = HEIR_fem
+#	}
+#
+#	trigger = {
+#		government = monarchy
+#		primary_culture = romanian
+#	}
+#}
 
 hyderabad_state_monarchy = {
 	rank = {

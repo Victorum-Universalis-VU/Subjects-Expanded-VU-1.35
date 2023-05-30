@@ -939,6 +939,34 @@ RSA = "countries/SouthAfrica.txt"
 THL = "countries/Thailand.txt"
 ZIB = "countries/Zimbabwe.txt"
 
+#Template 
+#XXX = "countries/xxxx.txt"
+
+#Magna Carta Start Date
+#ABN = "countries/Arbanon.txt"
+#TSP = "countries/Tsepina.txt"
+#RHO = "countries/Rhodes.txt"
+#THE = "countries/Thessalonica.txt"
+#CCN = "countries/County_of_Cephalonia.txt"
+#NRP = "countries/Triarchy_of_Negroponte.txt"
+#PLS = "countries/Philippopolis.txt"
+#BNA = "countries/Bodonitsa.txt"
+#MTS = "countries/Maniotes.txt"
+#TSS = "countries/Tsakones.txt"
+#NIC = "countries/Nicea.txt"
+
+#ABN - Arbanon
+#TSP - Tsepina
+#RHO - Rhodes
+#THE - Thessalonica
+#CCN - County_of_Cephalonia
+#NRP - Triarchy_of_Negroponte
+#PLS - Philippopolis
+#BNA - Bodonitsa
+#MTS - Maniotes
+#TSS - Tsakones
+#NIC - Nicea
+
 #Tags Changed by San Felipe
 #INI changed to IDA
 #############
