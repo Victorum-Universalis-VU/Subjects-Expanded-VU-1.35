@@ -942,30 +942,32 @@ ZIB = "countries/Zimbabwe.txt"
 #Template 
 #XXX = "countries/xxxx.txt"
 
-#Magna Carta Start Date
-#ABN = "countries/Arbanon.txt"
-#TSP = "countries/Tsepina.txt"
-#RHO = "countries/Rhodes.txt"
-#THE = "countries/Thessalonica.txt"
-#CCN = "countries/County_of_Cephalonia.txt"
-#NRP = "countries/Triarchy_of_Negroponte.txt"
-#PLS = "countries/Philippopolis.txt"
-#BNA = "countries/Bodonitsa.txt"
-#MTS = "countries/Maniotes.txt"
-#TSS = "countries/Tsakones.txt"
-#NIC = "countries/Nicea.txt"
+#VU New Magna Carta Start Date
+#Greece & Balkans
+ABN = "countries/Arbanon.txt"
+BNA = "countries/Bodonitsa.txt"
+CCN = "countries/County_of_Cephalonia.txt"
+MOT = "countries/Maniotes.txt"
+NIC = "countries/Nicea.txt"
+NRP = "countries/Triarchy_of_Negroponte.txt"
+PLS = "countries/Philippopolis.txt"
+RHO = "countries/Rhodes.txt"
+THE = "countries/Thessalonica.txt"
+TSP = "countries/Tsepina.txt"
+TSS = "countries/Tsakones.txt"
 
-#ABN - Arbanon
-#TSP - Tsepina
-#RHO - Rhodes
-#THE - Thessalonica
-#CCN - County_of_Cephalonia
-#NRP - Triarchy_of_Negroponte
-#PLS - Philippopolis
-#BNA - Bodonitsa
-#MTS - Maniotes
-#TSS - Tsakones
-#NIC - Nicea
+#Ireland
+UIB = "countries/Ui_Briain.txt"
+
+#Wales
+BRY = "countries/Brycheiniog.txt"
+BUE = "countries/Buellt.txt"
+CER = "countries/Ceredigion.txt"
+DFD = "countries/Dyfed.txt"
+GWN = "countries/Gwent.txt"
+GLY = "countries/Glywyssing.txt"
+PWY = "countries/Powys.txt"
+YST = "countries/Ystrad.txt"
 
 #Tags Changed by San Felipe
 #INI changed to IDA

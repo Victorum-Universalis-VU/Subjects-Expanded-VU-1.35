@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = greek_catepanates_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+capital = 145
+
+1215.1.1 = {
+	monarch = {
+		name = "Symvoulio Antibactille"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
